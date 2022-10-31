@@ -1,2 +1,4 @@
-updating the payment link 
+A new update was released 
 checking out using payppal to give better shopping option
+updating the payment link 
+>>>>>>> remotes/origin/master
